@@ -5,7 +5,6 @@
         },
         "en": {
             "default": "US",
-
             "contries": {
                 "US": {
                     "html": "main.html"
