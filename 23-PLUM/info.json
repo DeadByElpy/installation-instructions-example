@@ -1,0 +1,30 @@
+{
+    "languages": {
+        "en-US": {
+            "html": "en-US/index.html",
+            "video": "en-US/video.webm"
+        },
+        "uk-UA": {
+            "html": "uk-UA/index.html",
+            "video": "uk-UA/video.mp4"
+        },
+        "pt-BR": {
+            "html": "uk-UA/index.html",
+            "video": "uk-UA/video.gp3"
+        }
+    },
+    "languages-alternative": {
+        "en-US": {
+            "html": "main.html",
+            "video": "video.webm"
+        },
+        "uk-UA": {
+            "html": "index.html",
+            "video": "video.mkv"
+        },
+        "pt-BR": {
+            "html": "uk-UA/index.html",
+            "video": "uk-UA/video.webm"
+        }
+    }
+}
