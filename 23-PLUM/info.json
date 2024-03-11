@@ -1,20 +1,15 @@
 {
-    "languages": {
-       "default": {
-            "html": "root.html"
-        },
-        "en": {
-            "default": "US",
-            "contries": {
-                "US": {
-                    "html": "main.html"
-                }
-            }
-        }
-    },
-    "paths-for-example-NOT_FOR_USAGE": {
-        "en-US": "dir/languages/en/US/main.html",
-        "en": "dir/languages/en/US/main.html",
-        "default": "dir/languages/default/root.html"
+    "languages":{
+       "default":{
+          "html": "root.html"
+       },
+       "en":{
+          "default": "US",
+          "contries": {
+             "US": {
+                "html": "main.html"
+             }
+          }
+       }
     }
-}
+ }

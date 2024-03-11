@@ -1,0 +1,16 @@
+{
+    "languages":[
+       {
+          "code": "en",
+          "countries":[
+             {
+                "code": "US",
+                "html": "main.html",
+                "video": "video.webm"
+             }
+          ],
+          "defaultCountryCode":"US"
+       }
+    ],
+    "defaultLanguageCode":"en"
+}
