@@ -1,10 +1,10 @@
 {
-    "languages":{
-       "default":{
+    "languages": {
+       "default": {
           "html": "root.html"
        },
-       "en":{
-          "default": "US",
+       "en": {
+          "defaultCountry": "US",
           "contries": {
              "US": {
                 "html": "main.html"
