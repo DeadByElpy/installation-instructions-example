@@ -1,7 +1,7 @@
 {
-    "languages":{
+    "languages": {
        "default": "root.html",
-       "en":{
+       "en": {
           "default": "US",
           "contries": {
              "US": "main.html"
