@@ -2,7 +2,7 @@
     "languages":[
        {
           "code": "en",
-          "countries":[
+          "countries": [
              {
                 "code": "US",
                 "html": "main.html",
