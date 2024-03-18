@@ -5,8 +5,7 @@
           "countries": [
              {
                 "code": "US",
-                "html": "main.html",
-                "video": "video.webm"
+                "html": "main.html"
              }
           ],
           "defaultCountryCode":"US"
