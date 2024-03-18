@@ -15,7 +15,7 @@
           "countries": [
              {
                 "code": "UA",
-                "html": "main.html"
+                "html": "main.ua-UK.html"
              }
           ],
           "defaultCountryCode": "UA"
