@@ -4,11 +4,11 @@
           "code": "en",
           "countries": [
              {
-                "code": "US",
+                "code": "us",
                 "html": "main.html"
              }
           ],
-          "defaultCountryCode":"US"
+          "defaultCountryCode": "us"
        }
     ],
     "defaultLanguageCode":"en"
