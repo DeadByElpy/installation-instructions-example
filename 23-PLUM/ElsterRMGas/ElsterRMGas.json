@@ -1,1 +1,25 @@
-
+{
+    "languages": [
+       {
+          "code": "en",
+          "countries": [
+             {
+                "code": "us",
+                "html": "ElsterRMGasENG.html"
+             }
+          ],
+          "defaultCountryCode": "us"
+       },    
+       {
+          "code": "uk",
+          "countries": [
+             {
+                "code": "UA",
+                "html": "main.ua-UK.html"
+             }
+          ],
+          "defaultCountryCode": "UA"
+       }
+    ],
+    "defaultLanguageCode": "en"
+}
