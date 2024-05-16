@@ -1,0 +1,23 @@
+:root {
+    --white-bg-color: #4b566b;
+    --white-text-color: #fff;
+
+    /* dark vars */
+    --dark-bg-color: #212529;
+    --dark-text-color: #dee2e6;
+}
+
+body {
+    background-color: var(--white-bg-color);
+    color: var(--white-text-color);
+
+    @media (prefers-color-scheme: dark) {
+        background-color: var(--dark-bg-color);
+        color: var(--dark-text-color);
+    }
+}
+
+body.dark {
+    background-color: var(--dark-bg-color);
+    color: var(--dark-text-color);
+}
