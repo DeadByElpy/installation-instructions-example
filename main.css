@@ -21,3 +21,8 @@ body.dark {
     background-color: var(--dark-bg-color);
     color: var(--dark-text-color);
 }
+
+body.light {
+    background-color: var(--white-bg-color);
+    color: var(--white-text-color);
+}
